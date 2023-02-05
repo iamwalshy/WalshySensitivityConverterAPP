@@ -1,7 +1,7 @@
 import streamlit as st
 
 def main():
-    st.title("Aiming.pro Mouse Sensitivity Converter")
+    st.title("Walshy's Sensitivity Converter! #BlackLivesDontMatter")
 
     # User Inputs
     current_sensitivity = st.sidebar.number_input("Current Sensitivity", value=5.0, min_value=0.1, max_value=30.0, step=0.1)
